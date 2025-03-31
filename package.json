@@ -1,0 +1,1 @@
+{"name":"vtc-proposal","version":"1.0.0","description":"Виртуальный Торговый Центр - коммерческое предложение","scripts":{"start":"echo \"No server needed for static files\"","build":"echo \"No build step required\""},"author":"nikmcfly"}
